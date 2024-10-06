@@ -25,3 +25,10 @@ body {
     text-wrap: balance;
   }
 }
+
+/* src/styles/globals.css */
+.bg-bakery {
+  background-image: url('/images/BackGround4.jpeg'); /* Use your image path here */
+  background-size: cover; /* This makes the background cover the entire area */
+  background-position: center; /* Center the image */
+}
